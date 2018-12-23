@@ -1,0 +1,5 @@
+name: Utshob Pay
+identifier: utshob-pay
+description: AvoRed Fixed Rate Module
+namespace: AvoRed\UtshobPay\
+status: Enabled
